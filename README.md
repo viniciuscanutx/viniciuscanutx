@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi guys 👋
 
-<!--
-**viniciuscanutx/viniciuscanutx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Front-End Developer studing in São Paulo, Brasil.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ I'm studying computer science
+- 🇵🇹 Planing my portfolio
+- 🍑 What about this?
+
+##### BIO
+
+- ⚙️ I use daily: `.html`, `.css`, `.psd`, `.js`, `.py`
+- 🌱 I'm not working
+- 💬 Ping me about **design**, **development**, 
+- ⚡️ Fun fact: I'm not human
