@@ -1,6 +1,6 @@
 ### Hi guys 👋
 
-#### I'm a Front-End Developer studing in São Paulo, Brasil.
+#### I'm a Front-End Developer (Maybe Designer too?) studing in São Paulo, Brasil.
 
 ##### NOW
 
