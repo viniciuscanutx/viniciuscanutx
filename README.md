@@ -22,5 +22,9 @@
  	<a href="https://www.twitter.com/viniciuscanutx" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:viniciuscanutmz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viniciuscanuto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.artstation.com/viniciuscanutx" target="_blank"><img src="https://img.shields.io/badge/-My%20Artstation-black?style=for-the-badge&logo=artstation" target="_blank"></a>
   </div>
+  
+  #### Hobies..
+  <div>
+    <a href="https://www.artstation.com/viniciuscanutx" target="_blank"><img src="https://img.shields.io/badge/-My%20Artstation-black?style=for-the-badge&logo=artstation" target="_blank"></a>
+</div>
