@@ -6,7 +6,6 @@
 
 - ✨ I'm studying computer science
 - 🥳 Planing my portfolio
-- 🍑 What about this?
 
 ##### BIO
 
