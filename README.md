@@ -9,7 +9,7 @@
 
 ##### BIO
 
-- ⚙️ I use daily: `.html`, `.css`, `.c`, `.py`
+- ⚙️ I use daily: `.html`, `.css`, `.c++`, `.py`
 - 🌱 I'm not working
 - 💬 Ping me about **design**, **development**
 - ⚡️ Fun fact: I'm not human
