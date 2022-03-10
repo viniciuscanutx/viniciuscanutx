@@ -26,5 +26,5 @@
   
   #### Hobies..
   <div>
-    <a href="https://www.artstation.com/viniciuscanutx" target="_blank"><img src="https://img.shields.io/badge/-My%20Artstation-black?style=for-the-badge&logo=artstation" target="_blank"></a>
+    <a href="https://www.behance.net/viniciuscanutx" target="_blank"><img src=https://aleen42.github.io/badges/src/behance.svg target="_blank"></a>
 </div>
