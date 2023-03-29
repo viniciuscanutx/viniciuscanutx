@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ I'm studying computer science
+- ✨ I'm studying IT
 - 🥳 Planning my portfolio
 
 ##### BIO
