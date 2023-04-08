@@ -11,7 +11,7 @@
 
 - ⚙️ I use daily: `.html`, `.css`, `.js`, `.jsx`, `.c++`, `.py`
 - 🌱 I'm not working
-- 💬 Ping me about **design**, **development**
+- 💬 Ping me about **design**, **front-end development**
 - ⚡️ Fun fact: I'm not human
 
 
