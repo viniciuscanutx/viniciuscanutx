@@ -1,6 +1,6 @@
 ### Hi guys 👋
 
-#### I'm a Front-End Junior Developer (Maybe Designer too?) studing in São Paulo, Brasil.
+#### I'm a Front-End Junior Developer (Maybe Designer too?) studing in Sorocaba, São Paulo.
 
 ##### NOW
 
@@ -12,7 +12,7 @@
 - ⚙️ I use daily: `.html`, `.css`, `.js`, `.jsx`, `.c++`, `.py`
 - 🌱 I'm not working
 - 💬 Ping me about **design**, **front-end development**
-- ⚡️ Fun fact: I'm not human
+- ⚡️ Fun fact: I really like green herbs
 
 
 ##### Social Media
