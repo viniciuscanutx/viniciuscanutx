@@ -2,6 +2,10 @@
 
 #### I'm an IT student in Sorocaba, São Paulo.
 
+
+#### I do some design work in my spare time
+ 
+
 ##### NOW
 
 - ✨ I'm studying IT
