@@ -1,6 +1,6 @@
 ### Hi guys 👋
 
-#### I'm a Front-End Junior Developer (Maybe Designer too?) studing in Sorocaba, São Paulo.
+#### I'm an IT student in Sorocaba, São Paulo.
 
 ##### NOW
 
