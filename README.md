@@ -13,7 +13,7 @@
 
 ##### BIO
 
-- ⚙️ I use daily: `.html`, `.css`, `.js`, `.jsx`, `.c++`, `.py`
+- ⚙️ I use daily: `.java`, `.html`, `.css`, `.js`, `.jsx`, `.c++`, `.py`
 - 🌱 I'm not working
 - 💬 Ping me about **design**, **front-end development**, **machine learning**, **python**
 - ⚡️ Fun fact: I really like green herbs
