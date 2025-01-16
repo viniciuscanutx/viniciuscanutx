@@ -15,7 +15,7 @@
 
 - ⚙️ I use daily: `.java`, `.tsx`, `.jsx`, `.css`, `.py`
 - 🌱 I'm not working
-- 💬 Ping me about **design**, **back-end development**, **machine learning**, **python**
+- 💬 Ping me about **front-end development**, **back-end development**, **machine learning**, **python development**
 - ⚡️ Fun fact: I really like green herbs
 
 
