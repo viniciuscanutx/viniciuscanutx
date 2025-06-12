@@ -14,9 +14,9 @@
 ##### BIO
 
 - ⚙️ I use daily: `.java`, `.tsx`, `.jsx`, `.css`, `.py`
-- 🌱 I'm not working
+- 🌱 I'm working
 - 💬 Ping me about **front-end development**, **back-end development**, **machine learning**, **python development**
-- ⚡️ Fun fact: I really like green herbs
+- ⚡️ Fun fact: I really like games
 
 
 ##### Social Media
