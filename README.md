@@ -1,6 +1,6 @@
 ### Hi,
 
-#### I'm an JUnior Full Stack Developer in São Paulo, Brasil.
+#### I'm an Junior Full Stack Developer in São Paulo, Brasil.
 
 
 #### I do some design work in my spare time
