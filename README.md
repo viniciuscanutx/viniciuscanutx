@@ -1,6 +1,6 @@
-### Hi guys 👋
+### Hi,
 
-#### I'm an IT student in Sorocaba, São Paulo.
+#### I'm an JUnior Full Stack Developer in São Paulo, Brasil.
 
 
 #### I do some design work in my spare time
@@ -8,15 +8,15 @@
 
 ##### NOW
 
-- ✨ I'm studying IT
-- 🥳 Planning my portfolio
+- ✨ I'm working at Front-End Developer
+- 🥳 Expanding my portfolio
 
 ##### BIO
 
-- ⚙️ I use daily: `.java`, `.tsx`, `.jsx`, `.css`, `.py`
+- ⚙️ I use daily: `.cs`, `.tsx`, `.jsx`, `.css`, `.py`
 - 🌱 I'm working
 - 💬 Ping me about **front-end development**, **back-end development**, **machine learning**, **python development**
-- ⚡️ Fun fact: I really like games
+- ⚡️ Fun fact: I really like games and other things.
 
 
 ##### Social Media
